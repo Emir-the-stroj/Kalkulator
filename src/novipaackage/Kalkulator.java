@@ -11,5 +11,13 @@ public class Kalkulator {
 
 	public int sabiranje(int broj1, int broj2) {
 		return broj1 + broj2;
+		
 	}
+	
+	public int oduzimanje(int broj1, int broj2) {
+		return broj1 - broj2;
+	}
+	
+	
+	
 }
