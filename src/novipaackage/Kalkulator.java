@@ -23,8 +23,11 @@ public class Kalkulator {
 		return broj1 - broj2;
 	}
 	
-	public double KvadratnoKorjenovanje(int broj1, int broj2) {
+	public double KvadratnoKorjenovanje(int broj1) {
 		return Math.sqrt(broj1);
+	}
+	public int Kvadriranje(int broj1) {
+		return broj1 * broj1;
 	}
 	
 	
