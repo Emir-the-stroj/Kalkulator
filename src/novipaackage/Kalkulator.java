@@ -13,6 +13,11 @@ public class Kalkulator {
 		return broj1 + broj2;
 		
 	}
+
+	public int mnozenje(int broj1, int broj2) {
+		return broj1 * broj2;
+	}
+
 	
 	public int oduzimanje(int broj1, int broj2) {
 		return broj1 - broj2;
@@ -23,4 +28,5 @@ public class Kalkulator {
 	}
 	
 	
+
 }
